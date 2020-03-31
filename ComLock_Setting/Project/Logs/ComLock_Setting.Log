@@ -1,0 +1,246 @@
+2019-05-11 14:01:56.260 : [Success] Check Administrator has run
+2019-05-11 14:01:56.270 : [Success] Check System.ini
+2019-05-11 14:02:11.650 : Frm_First Called
+2019-05-11 14:02:11.710 : AlwaysTop Err_First -> True
+2019-05-11 14:02:11.720 :  _____                 _                _    
+2019-05-11 14:02:11.720 : /  __ \               | |              | |   
+2019-05-11 14:02:11.720 : | /  \/ ___  _ __ ___ | |     ___   ___| | __
+2019-05-11 14:02:11.720 : | |    / _ \| '_ ` _ \| |    / _ \ / __| |/ /
+2019-05-11 14:02:11.720 : | \__/\ (_) | | | | | | |___| (_) | (__|   < 
+2019-05-11 14:02:11.720 :  \____/\___/|_| |_| |_\_____/\___/ \___|_|\_\
+2019-05-11 14:02:11.720 :                                              
+2019-05-11 14:02:11.730 : ComLock_Setting was first executed.
+2019-05-11 14:02:11.730 : [Success] Initial ID / PW granted.
+2019-05-11 14:02:11.730 : [Success] ComLock_Setting has run.
+2019-05-11 14:02:41.560 : AlwaysTop Err_First -> False
+2019-05-11 14:02:44.730 : AlwaysTop Err_First -> False
+2019-05-11 14:02:56.910 : AlwaysTop Err_First -> False
+2019-05-11 14:02:58.240 : Frm_Main Called
+2019-05-11 14:03:02.680 : ComLock Help Called
+2019-05-11 14:03:07.960 : [Success] The ComLock_Setting has successfully terminated.
+2019-05-11 14:03:17.170 : [Success] Check Administrator has run
+2019-05-11 14:03:17.170 : [Success] Check System.ini
+2019-05-11 14:03:17.180 : [Success] ComLock_Setting has run.
+2019-05-11 14:03:35.470 : Frm_Login Called
+2019-05-11 14:03:38.700 : [Failed] Manager Authentication Failed
+2019-05-11 14:03:49.260 : Frm_Change Called
+2019-05-11 14:03:49.290 : [Success] Manager Authentication Successful!.
+2019-05-11 14:03:59.180 : ID/PW Change Called
+2019-05-11 14:04:01.830 : ID/PW Cancel Change
+2019-05-11 14:04:03.550 : ID/PW Change Called
+2019-05-11 14:04:05.750 : [Warning] ID/PW Changed
+2019-05-11 14:04:05.760 : Frm_Main Called
+2019-05-11 14:04:09.780 : Frm_Login Called
+2019-05-11 14:04:13.400 : [Failed] Manager Authentication Failed
+2019-05-11 14:04:15.430 : Frm_Setting Called
+2019-05-11 14:04:15.500 : Refresh RW5hYmxlZA.
+2019-05-11 14:04:15.520 : [Success] Manager Authentication Successful!.
+2019-05-11 14:04:24.210 : Minimize_D Called
+2019-05-11 14:04:24.210 : TWluaW1peg -> False
+2019-05-11 14:04:25.960 : Minimize_I Called
+2019-05-11 14:04:25.960 : TWluaW1peg -> True
+2019-05-11 14:04:37.550 : Minimize_D Called
+2019-05-11 14:04:37.550 : TWluaW1peg -> False
+2019-05-11 14:04:39.350 : Windows_Startup_I Called
+2019-05-11 14:04:39.380 : V2luZG93c19TdGFydHVw -> True
+2019-05-11 14:04:43.800 : Windows_Startup_D Called
+2019-05-11 14:04:43.810 : V2luZG93c19TdGFydHVw -> False
+2019-05-11 14:04:46.120 : Minimize_I Called
+2019-05-11 14:04:46.130 : TWluaW1peg -> True
+2019-05-11 14:04:47.780 : ComLock_Setting_Log Called
+2019-05-11 14:04:53.710 : UAC_Setting_Help Called
+2019-05-11 14:05:08.930 : Frm_Process_Setting Called
+2019-05-11 14:05:08.970 : Refresh Process List.
+2019-05-11 14:05:17.890 : Process_D Called
+2019-05-11 14:05:18.990 : Refresh Process List.
+2019-05-11 14:05:21.440 : Process_D Called
+2019-05-11 14:05:22.940 : [Warning] Initializes registered processes.
+2019-05-11 14:05:28.980 : Refresh Process List.
+2019-05-11 14:05:39.000 : Refresh Process List.
+2019-05-11 14:05:40.080 : Frm_PS Called
+2019-05-11 14:05:40.560 : Get Computer Processes List
+2019-05-11 14:05:45.950 : ProcessBCWipeTM.exe Click
+2019-05-11 14:05:49.020 : Refresh Process List.
+2019-05-11 14:05:49.200 : ProcessBCWipeTM.exe Click
+2019-05-11 14:05:50.450 : ProcessNVDisplay.Container.exe Click
+2019-05-11 14:05:54.650 : ProcessBCWipeTM.exe Click
+2019-05-11 14:05:56.600 : [Warning] ProcessBCWipeTM.exe registered
+2019-05-11 14:05:59.090 : Refresh Process List.
+2019-05-11 14:06:01.540 : ProcessPresentationFontCache.exe Click
+2019-05-11 14:06:02.750 : [Warning] ProcessPresentationFontCache.exe registered
+2019-05-11 14:06:04.570 : ProcessAnySign4PCLauncher.exe Click
+2019-05-11 14:06:05.380 : [Warning] ProcessAnySign4PCLauncher.exe registered
+2019-05-11 14:06:07.860 : ProcessIMGSF50Svc.exe Click
+2019-05-11 14:06:08.540 : [Warning] ProcessIMGSF50Svc.exe registered
+2019-05-11 14:06:09.110 : Refresh Process List.
+2019-05-11 14:06:11.240 : ProcessASDSvc.exe Click
+2019-05-11 14:06:12.470 : [Warning] ProcessASDSvc.exe registered
+2019-05-11 14:06:14.420 : ProcessINISAFECrossWebEXSvc.exe Click
+2019-05-11 14:06:16.390 : [Failed] ProcessINISAFECrossWebEXSvc.exe registered Failed
+2019-05-11 14:06:18.520 : [Failed] ProcessINISAFECrossWebEXSvc.exe registered Failed
+2019-05-11 14:06:19.110 : Refresh Process List.
+2019-05-11 14:06:19.740 : Processconhost.exe Click
+2019-05-11 14:06:21.700 : [Failed] Processconhost.exe registered Failed
+2019-05-11 14:06:23.480 : ProcessSgrmBroker.exe Click
+2019-05-11 14:06:25.190 : [Failed] ProcessSgrmBroker.exe registered Failed
+2019-05-11 14:06:29.160 : Refresh Process List.
+2019-05-11 14:06:33.100 : Get Computer Processes List
+2019-05-11 14:06:33.110 : Frm_Setting Called
+2019-05-11 14:06:35.290 : Frm_Process_Setting Called
+2019-05-11 14:06:39.250 : Refresh Process List.
+2019-05-11 14:06:43.240 : Process_D Called
+2019-05-11 14:06:43.910 : [Warning] Initializes registered processes.
+2019-05-11 14:06:49.270 : Refresh Process List.
+2019-05-11 14:06:51.080 : Frm_Setting Called
+2019-05-11 14:07:10.550 : Frm_Process_Setting Called
+2019-05-11 14:07:10.650 : Refresh Process List.
+2019-05-11 14:07:12.570 : Frm_Setting Called
+2019-05-11 14:07:13.480 : Login_Setting Called
+2019-05-11 14:07:13.500 : Refresh TG9naW5fU2V0dGluZw.
+2019-05-11 14:07:23.460 : Frm_Setting Called
+2019-05-11 14:07:55.500 : Frm_Process_Setting Called
+2019-05-11 14:07:55.530 : Refresh Process List.
+2019-05-11 14:07:56.670 : Frm_Setting Called
+2019-05-11 14:07:58.680 : Login_Setting Called
+2019-05-11 14:07:58.720 : Refresh TG9naW5fU2V0dGluZw.
+2019-05-11 14:08:02.030 : Frm_Setting Called
+2019-05-11 14:08:02.870 : Login_Setting Called
+2019-05-11 14:08:03.050 : Refresh TG9naW5fU2V0dGluZw.
+2019-05-11 14:08:04.170 : Login_Setting_I Called
+2019-05-11 14:08:12.760 : Login_Setting Cancel Change
+2019-05-11 14:08:15.730 : [Warning] Login_Setting Changed
+2019-05-11 14:08:15.730 : Frm_Setting Called
+2019-05-11 14:08:21.010 : Login_Setting Called
+2019-05-11 14:08:25.060 : Frm_Setting Called
+2019-05-11 14:08:25.720 : Login_Setting Called
+2019-05-11 14:08:25.740 : Refresh TG9naW5fU2V0dGluZw.
+2019-05-11 14:08:30.550 : Frm_Setting Called
+2019-05-11 14:08:31.400 : Login_Setting Called
+2019-05-11 14:08:31.480 : Refresh TG9naW5fU2V0dGluZw.
+2019-05-11 14:08:33.710 : Login_Setting_I Called
+2019-05-11 14:08:34.730 : Frm_Setting Called
+2019-05-11 14:08:35.270 : Login_Setting Called
+2019-05-11 14:08:36.210 : Login_Setting_I Called
+2019-05-11 14:08:37.250 : Frm_Setting Called
+2019-05-11 14:08:42.930 : Frm_Main Called
+2019-05-11 14:08:47.900 : Frm_Login Called
+2019-05-11 14:08:49.220 : Frm_Main Called
+2019-05-11 14:08:50.900 : Frm_Login Called
+2019-05-11 14:08:51.810 : Frm_Main Called
+2019-05-11 14:08:53.260 : [Success] The ComLock_Setting has successfully terminated.
+2019-05-11 23:38:48.320 : [Success] Check Administrator has run
+2019-05-11 23:38:48.340 : [Success] Check System.ini
+2019-05-11 23:38:48.340 : [Success] ComLock_Setting has run.
+2019-05-11 23:38:50.430 : Frm_Login Called
+2019-05-11 23:38:51.940 : Frm_Setting Called
+2019-05-11 23:38:52.020 : Refresh RW5hYmxlZA.
+2019-05-11 23:38:52.050 : [Success] Manager Authentication Successful!.
+2019-05-11 23:38:54.270 : Login_Setting Called
+2019-05-11 23:38:54.300 : Refresh TG9naW5fU2V0dGluZw.
+2019-05-11 23:39:08.200 : Frm_Setting Called
+2019-05-11 23:39:09.130 : Frm_Main Called
+2019-05-11 23:39:10.090 : [Success] The ComLock_Setting has successfully terminated.
+2019-05-12 16:39:48.660 : [Success] Check Administrator has run
+2019-05-12 16:39:48.700 : [Success] Check System.ini
+2019-05-12 16:39:48.710 : [Success] ComLock_Setting has run.
+2019-05-12 16:39:50.930 : Frm_Login Called
+2019-05-12 16:39:53.410 : Frm_Change Called
+2019-05-12 16:39:53.470 : [Success] Manager Authentication Successful!.
+2019-05-12 16:39:59.230 : ID/PW Change Called
+2019-05-12 16:40:01.390 : [Warning] ID/PW Changed
+2019-05-12 16:40:01.410 : Frm_Main Called
+2019-05-12 16:40:02.950 : Frm_Login Called
+2019-05-12 16:40:04.250 : [Failed] Manager Authentication Failed
+2019-05-12 16:40:05.670 : Frm_Setting Called
+2019-05-12 16:40:05.750 : Refresh RW5hYmxlZA.
+2019-05-12 16:40:05.790 : [Success] Manager Authentication Successful!.
+2019-05-12 16:40:08.670 : Login_Setting Called
+2019-05-12 16:40:08.690 : Refresh TG9naW5fU2V0dGluZw.
+2019-05-12 16:40:10.510 : Login_Setting_I Called
+2019-05-12 16:40:15.930 : [Warning] Login_Setting Changed
+2019-05-12 16:40:15.940 : Frm_Setting Called
+2019-05-12 16:40:19.130 : ComLock_Log Called
+2019-05-12 16:40:26.470 : ComLock_Setting_Log Called
+2019-05-12 17:14:49.430 : [Success] The ComLock_Setting has successfully terminated.
+2019-05-12 20:23:19.580 : [Success] Check Administrator has run
+2019-05-12 20:23:19.590 : [Success] Check System.ini
+2019-05-12 20:23:19.590 : [Success] ComLock_Setting has run.
+2019-05-17 20:46:35.200 : [Success] Check Administrator has run
+2019-05-17 20:46:35.250 : [Success] Check System.ini
+2019-05-17 20:46:35.250 : [Success] ComLock_Setting has run.
+2019-05-17 20:46:38.900 : ComLock Help Called
+2019-05-17 20:46:41.570 : Frm_Login Called
+2019-05-17 20:46:50.510 : [Failed] Manager Authentication Failed
+2019-05-17 20:46:51.700 : [Failed] Manager Authentication Failed
+2019-05-17 20:46:52.890 : Frm_Setting Called
+2019-05-17 20:46:52.980 : Refresh RW5hYmxlZA.
+2019-05-17 20:46:53.000 : [Success] Manager Authentication Successful!.
+2019-05-17 20:46:53.040 : Frm_Process_Setting Called
+2019-05-17 20:46:53.080 : Refresh Process List.
+2019-05-17 20:46:54.910 : Frm_Setting Called
+2019-05-17 20:47:01.460 : Frm_Main Called
+2019-05-17 20:47:02.340 : [Success] The ComLock_Setting has successfully terminated.
+2019-06-15 18:44:39.230 : [Success] Check Administrator has run
+2019-06-15 18:44:39.280 : [Success] Check System.ini
+2019-06-15 18:44:40.390 : Frm_First Called
+2019-06-15 18:44:40.410 : AlwaysTop Err_First -> True
+2019-06-15 18:44:40.410 :  _____                 _                _    
+2019-06-15 18:44:40.410 : /  __ \               | |              | |   
+2019-06-15 18:44:40.410 : | /  \/ ___  _ __ ___ | |     ___   ___| | __
+2019-06-15 18:44:40.420 : | |    / _ \| '_ ` _ \| |    / _ \ / __| |/ /
+2019-06-15 18:44:40.420 : | \__/\ (_) | | | | | | |___| (_) | (__|   < 
+2019-06-15 18:44:40.420 :  \____/\___/|_| |_| |_\_____/\___/ \___|_|\_\
+2019-06-15 18:44:40.420 :                                              
+2019-06-15 18:44:40.420 : ComLock_Setting was first executed.
+2019-06-15 18:44:40.430 : [Success] Initial ID / PW granted.
+2019-06-15 18:44:40.430 : [Success] ComLock_Setting has run.
+2019-06-15 18:44:42.320 : AlwaysTop Err_First -> False
+2019-06-15 18:44:44.030 : AlwaysTop Err_First -> False
+2019-06-15 18:44:44.880 : Frm_Main Called
+2019-06-15 18:44:48.010 : ComLock Help Called
+2019-06-15 18:44:52.420 : Frm_Login Called
+2019-06-15 18:45:00.880 : [Failed] Manager Authentication Failed
+2019-06-15 18:45:07.340 : [Failed] Manager Authentication Failed
+2019-06-15 18:45:11.910 : Frm_Change Called
+2019-06-15 18:45:11.940 : [Success] Manager Authentication Successful!.
+2019-06-15 18:45:14.630 : ID/PW Change Called
+2019-06-15 18:45:16.770 : [Warning] ID/PW Changed
+2019-06-15 18:45:16.770 : Frm_Main Called
+2019-06-15 18:45:17.620 : Frm_Login Called
+2019-06-15 18:45:21.920 : Frm_Setting Called
+2019-06-15 18:45:21.980 : Refresh RW5hYmxlZA.
+2019-06-15 18:45:21.000 : [Success] Manager Authentication Successful!.
+2019-06-15 18:45:22.050 : Frm_Process_Setting Called
+2019-06-15 18:45:22.080 : Refresh Process List.
+2019-06-15 18:45:23.220 : Frm_Setting Called
+2019-06-15 18:45:30.910 : UAC_Setting_Help Called
+2019-06-15 18:45:37.050 : ComLock_Setting_Log Called
+2019-06-15 18:45:49.600 : ComLock_Log Called
+2019-06-15 18:45:53.210 : Frm_Process_Setting Called
+2019-06-15 18:45:53.240 : Refresh Process List.
+2019-06-15 18:45:56.510 : Frm_Setting Called
+2019-06-15 18:45:57.410 : Login_Setting Called
+2019-06-15 18:45:57.470 : Refresh TG9naW5fU2V0dGluZw.
+2019-06-15 18:46:02.120 : Login_Setting_I Called
+2019-06-15 18:46:10.070 : [Warning] Login_Setting Changed
+2019-06-15 18:46:10.080 : Frm_Setting Called
+2019-06-15 18:46:12.130 : Windows_Startup_I Called
+2019-06-15 18:46:12.130 : V2luZG93c19TdGFydHVw -> True
+2019-06-15 18:46:13.340 : Windows_Startup_D Called
+2019-06-15 18:46:13.340 : V2luZG93c19TdGFydHVw -> False
+2019-06-15 18:46:15.070 : Minimize_D Called
+2019-06-15 18:46:15.080 : TWluaW1peg -> False
+2019-06-15 18:46:16.130 : Minimize_I Called
+2019-06-15 18:46:16.130 : TWluaW1peg -> True
+2019-06-15 18:46:18.630 : Frm_Main Called
+2019-06-15 18:46:19.290 : [Success] The ComLock_Setting has successfully terminated.
+2020-01-20 19:29:11.030 : [Success] Check Administrator has run
+2020-01-20 19:29:11.100 : [Success] Check System.ini
+2020-01-20 19:29:11.120 : [Success] ComLock_Setting has run.
+2020-01-20 19:29:12.740 : ComLock Help Called
+2020-01-20 19:29:14.220 : Frm_Login Called
+2020-01-20 19:29:16.050 : [Failed] Manager Authentication Failed
+2020-01-20 19:29:17.060 : Frm_Main Called
+2020-01-20 19:29:17.780 : Frm_Login Called
+2020-01-20 19:29:18.970 : Frm_Main Called
+2020-01-20 19:29:19.480 : [Success] The ComLock_Setting has successfully terminated.
