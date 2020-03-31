@@ -1,0 +1,11 @@
+Frm_Main = 0, 0, 1111, 569, Z, 26, 26, 1137, 595, C
+Moudle_AlwaysTop = 78, 78, 1189, 647, 
+Module_INI = 52, 52, 1163, 621, 
+Moudle_WriteLog = 130, 130, 1241, 699, 
+MD5 = 156, 156, 1267, 725, C
+UserControl_CandyButton = 0, 0, 0, 0, C, 208, 208, 1319, 777, C
+Err_File = 208, 208, 1319, 777, C, 104, 104, 1215, 673, C
+Err_Permission = 234, 234, 1345, 803, C, 104, 104, 1215, 673, C
+Module_BSBD = 130, 130, 1241, 699, 
+Module_KillProcess = 234, 234, 1345, 803, 
+Module_HideProcess = 156, 156, 1267, 725, 

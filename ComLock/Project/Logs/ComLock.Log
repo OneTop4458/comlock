@@ -1,0 +1,54 @@
+2019-05-12 20:30:41.000 : [Success] Check Administrator has run
+2019-05-12 20:30:42.000 : [Success] Check System.ini
+2019-05-12 20:30:42.000 : [Success] ComLock has run.
+2019-05-12 20:31:46.950 : [Success] Check Administrator has run
+2019-05-12 20:31:46.950 : [Success] Check System.ini
+2019-05-12 20:31:46.950 : [Success] ComLock has run.
+2019-05-12 20:32:17.250 : [Success] Check Administrator has run
+2019-05-12 20:32:17.250 : [Success] Check System.ini
+2019-05-12 20:32:17.250 : [Success] ComLock has run.
+2019-05-12 20:33:11.630 : [Success] Check Administrator has run
+2019-05-12 20:33:11.630 : [Success] Check System.ini
+2019-05-12 20:33:11.630 : [Success] ComLock has run.
+2019-05-12 20:33:15.730 : [Warning] Login block 2 times left.
+2019-05-12 20:33:15.730 : [Success] Timer_Failed -> True
+2019-05-12 20:33:15.730 : [Failed] Manager Authentication Failed
+2019-05-12 20:33:41.360 : [Warning] Login block 1 times left.
+2019-05-12 20:33:41.370 : [Success] Timer_Failed -> True
+2019-05-12 20:33:41.370 : [Failed] Manager Authentication Failed
+2019-05-17 20:50:21.620 : [Error] 13 (형식이 일치하지 않습니다.) in procedure Form_Load of Form Frm_Main
+2019-05-17 20:50:57.640 : [Error] 13 (형식이 일치하지 않습니다.) in procedure Form_Load of Form Frm_Main
+2019-05-17 20:51:25.180 : [Success] Check Administrator has run
+2019-05-17 20:51:25.180 : [Success] Check System.ini
+2019-05-17 20:51:25.180 : [Success] ComLock has run.
+2019-05-17 20:53:15.230 : [Error] 13 (형식이 일치하지 않습니다.) in procedure Form_Load of Form Frm_Main
+2019-05-17 20:55:14.020 : [Success] Check Administrator has run
+2019-05-17 20:55:14.020 : [Success] Check System.ini
+2019-05-17 20:55:14.020 : [Success] ComLock has run.
+2019-05-17 20:55:19.180 : [Success] Check Administrator has run
+2019-05-17 20:55:19.180 : [Success] Check System.ini
+2019-05-17 20:55:19.180 : [Success] ComLock has run.
+2019-06-15 18:46:57.010 : [Success] Check Administrator has run
+2019-06-15 18:46:57.020 : [Success] Check System.ini
+2019-06-15 18:46:57.020 : [Success] ComLock has run.
+2019-06-15 18:47:00.130 : [Warning] Login block 5 times left.
+2019-06-15 18:47:00.130 : [Success] Timer_Failed -> True
+2019-06-15 18:47:00.130 : [Failed] Manager Authentication Failed
+2019-06-15 18:47:03.260 : [Warning] Login block 4 times left.
+2019-06-15 18:47:03.260 : [Success] Timer_Failed -> True
+2019-06-15 18:47:03.270 : [Failed] Manager Authentication Failed
+2019-06-15 18:47:06.050 : [Warning] Login block 3 times left.
+2019-06-15 18:47:06.050 : [Success] Timer_Failed -> True
+2019-06-15 18:47:06.050 : [Failed] Manager Authentication Failed
+2019-06-15 18:47:08.640 : [Warning] Login block 2 times left.
+2019-06-15 18:47:08.660 : [Success] Timer_Failed -> True
+2019-06-15 18:47:08.670 : [Failed] Manager Authentication Failed
+2019-06-15 18:47:11.250 : [Warning] Login block 1 times left.
+2019-06-15 18:47:11.250 : [Success] Timer_Failed -> True
+2019-06-15 18:47:11.250 : [Failed] Manager Authentication Failed
+2019-06-15 18:47:14.590 : [Warning] Login block 0 times left.
+2019-06-15 18:47:14.590 : [Success] Timer_Block -> True
+2019-06-15 18:47:14.600 : [Failed] Manager Authentication Failed
+2019-06-15 19:41:41.270 : [Warning] Login block 5 times left.
+2019-06-15 19:41:41.270 : [Success] Timer_Success -> True
+2019-06-15 19:41:41.270 : [Success] Manager Authentication Successful!.
